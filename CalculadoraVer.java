@@ -21,9 +21,4 @@ public class CalculadoraVer {
 		return n1*n2;
 	}
 	
-	public int divide(){
-		return n1/n2;
-	}
-	
-	
 }
