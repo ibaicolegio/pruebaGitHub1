@@ -12,6 +12,7 @@ public class CalculadoraVer {
 	public int suma(){
 		return n1+n2;
 	}
+
 	
 	public int multi(){
 		return n1*n2;
@@ -31,8 +32,5 @@ public int suma(){
 	public int multi(){
 		return n1*n2;
 	}
-<<<<<<< HEAD
-	
-=======
->>>>>>> 61084c31a8095fab1e6e9fa5dd7dd93f58ee0709
-}
+
+
